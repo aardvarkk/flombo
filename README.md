@@ -6,6 +6,8 @@ I tried to explain that and I think it's probably more confusing afterwards.
 
 Here's an example:
 
+![GREece + caNADA = GRENADA](https://github.com/aardvarkk/flombo/assets/1251092/b44ae477-f305-49fb-950e-1be4cface856)
+
 Can you tell which country flags have been combined?
 
 That's right! It's Canada and Greece!
