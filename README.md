@@ -22,6 +22,7 @@ I decided to whip up a quick script to try to determine all of the possibilities
 
 Here are the results in *flag form* for you to try to guess. Don't scroll too quickly or you'll see the text translation and spoil all of the answers!
 
+```
 🇦🇺  +  🇦🇱  =  🇦🇹
 🇦🇺  +  🇦🇲  =  🇦🇹
 🇦🇺  +  🇧🇬  =  🇦🇹
@@ -382,6 +383,7 @@ Here are the results in *flag form* for you to try to guess. Don't scroll too qu
 🇺🇲  +  🇻🇬  =  🇻🇮
 🇺🇸  +  🇻🇬  =  🇻🇮
 🇿🇼  +  🇬🇲  =  🇿🇲
+```
 
 # The Answers (Spoilers!)
 
