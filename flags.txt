@@ -12,7 +12,7 @@ AS	🇦🇸	U+1F1E6 U+1F1F8	American Samoa
 AT	🇦🇹	U+1F1E6 U+1F1F9	Austria
 AU	🇦🇺	U+1F1E6 U+1F1FA	Australia
 AW	🇦🇼	U+1F1E6 U+1F1FC	Aruba
-AX	🇦🇽	U+1F1E6 U+1F1FD	Åland Islands
+AX	🇦🇽	U+1F1E6 U+1F1FD	Aland Islands
 AZ	🇦🇿	U+1F1E6 U+1F1FF	Azerbaijan
 BA	🇧🇦	U+1F1E7 U+1F1E6	Bosnia and Herzegovina
 BB	🇧🇧	U+1F1E7 U+1F1E7	Barbados
@@ -23,7 +23,7 @@ BG	🇧🇬	U+1F1E7 U+1F1EC	Bulgaria
 BH	🇧🇭	U+1F1E7 U+1F1ED	Bahrain
 BI	🇧🇮	U+1F1E7 U+1F1EE	Burundi
 BJ	🇧🇯	U+1F1E7 U+1F1EF	Benin
-BL	🇧🇱	U+1F1E7 U+1F1F1	Saint Barthélemy
+BL	🇧🇱	U+1F1E7 U+1F1F1	Saint Barthelemy
 BM	🇧🇲	U+1F1E7 U+1F1F2	Bermuda
 BN	🇧🇳	U+1F1E7 U+1F1F3	Brunei Darussalam
 BO	🇧🇴	U+1F1E7 U+1F1F4	Bolivia
@@ -41,7 +41,7 @@ CD	🇨🇩	U+1F1E8 U+1F1E9	Congo
 CF	🇨🇫	U+1F1E8 U+1F1EB	Central African Republic
 CG	🇨🇬	U+1F1E8 U+1F1EC	Congo
 CH	🇨🇭	U+1F1E8 U+1F1ED	Switzerland
-CI	🇨🇮	U+1F1E8 U+1F1EE	Côte D'Ivoire
+CI	🇨🇮	U+1F1E8 U+1F1EE	Cote D'Ivoire
 CK	🇨🇰	U+1F1E8 U+1F1F0	Cook Islands
 CL	🇨🇱	U+1F1E8 U+1F1F1	Chile
 CM	🇨🇲	U+1F1E8 U+1F1F2	Cameroon
@@ -50,7 +50,7 @@ CO	🇨🇴	U+1F1E8 U+1F1F4	Colombia
 CR	🇨🇷	U+1F1E8 U+1F1F7	Costa Rica
 CU	🇨🇺	U+1F1E8 U+1F1FA	Cuba
 CV	🇨🇻	U+1F1E8 U+1F1FB	Cape Verde
-CW	🇨🇼	U+1F1E8 U+1F1FC	Curaçao
+CW	🇨🇼	U+1F1E8 U+1F1FC	Curacao
 CX	🇨🇽	U+1F1E8 U+1F1FD	Christmas Island
 CY	🇨🇾	U+1F1E8 U+1F1FE	Cyprus
 CZ	🇨🇿	U+1F1E8 U+1F1FF	Czech Republic
@@ -185,7 +185,7 @@ PT	🇵🇹	U+1F1F5 U+1F1F9	Portugal
 PW	🇵🇼	U+1F1F5 U+1F1FC	Palau
 PY	🇵🇾	U+1F1F5 U+1F1FE	Paraguay
 QA	🇶🇦	U+1F1F6 U+1F1E6	Qatar
-RE	🇷🇪	U+1F1F7 U+1F1EA	Réunion
+RE	🇷🇪	U+1F1F7 U+1F1EA	Reunion
 RO	🇷🇴	U+1F1F7 U+1F1F4	Romania
 RS	🇷🇸	U+1F1F7 U+1F1F8	Serbia
 RU	🇷🇺	U+1F1F7 U+1F1FA	Russia
