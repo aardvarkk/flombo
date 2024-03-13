@@ -1,6 +1,6 @@
 import { readFileSync } from "fs";
 
-const HIDE = false;
+const FUN = true;
 const FLAG_INDEX = 1;
 const NAME_INDEX = 3;
 const NORM_INDEX = 4;
@@ -61,7 +61,7 @@ for (let t = 0; t < data.length; t++) {
   for (let i = 0; i < startScores.length; ++i) {
     for (let j = 0; j < endScores.length; ++j) {
       if (i !== j && startScores[i] + endScores[j] >= target.length) {
-        const idx = HIDE ? FLAG_INDEX : NAME_INDEX;
+        const idx = FUN ? FLAG_INDEX : NAME_INDEX;
         const start = data[i][idx];
         const end = data[j][idx];
         const result = data[t][idx];
