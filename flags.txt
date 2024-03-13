@@ -236,8 +236,8 @@ UZ	🇺🇿	U+1F1FA U+1F1FF	Uzbekistan
 VA	🇻🇦	U+1F1FB U+1F1E6	Vatican City
 VC	🇻🇨	U+1F1FB U+1F1E8	Saint Vincent and The Grenadines
 VE	🇻🇪	U+1F1FB U+1F1EA	Venezuela
-VG	🇻🇬	U+1F1FB U+1F1EC	Virgin Islands, British
-VI	🇻🇮	U+1F1FB U+1F1EE	Virgin Islands, U.S.
+VG	🇻🇬	U+1F1FB U+1F1EC	British Virgin Islands
+VI	🇻🇮	U+1F1FB U+1F1EE	United States Virgin Islands
 VN	🇻🇳	U+1F1FB U+1F1F3	Viet Nam
 VU	🇻🇺	U+1F1FB U+1F1FA	Vanuatu
 WF	🇼🇫	U+1F1FC U+1F1EB	Wallis and Futuna
